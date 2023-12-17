@@ -1,0 +1,18 @@
+body {
+    background-image: url(../img/bgimage.jpg);
+    background-size: cover;
+}
+
+.s2 {
+    text-align: center;
+    margin-top: 17%;
+}
+
+.s2 .three .btn1 {
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
